@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactjs-project/static/css/main.b72c5d81.css",
+    "main.js": "/reactjs-project/static/js/main.5272bdad.js",
+    "static/media/sun.png": "/reactjs-project/static/media/sun.f794832ad72b90c61eb7.png",
+    "static/media/moon.png": "/reactjs-project/static/media/moon.3bea3d398a25611d421b.png",
+    "index.html": "/reactjs-project/index.html",
+    "main.b72c5d81.css.map": "/reactjs-project/static/css/main.b72c5d81.css.map",
+    "main.5272bdad.js.map": "/reactjs-project/static/js/main.5272bdad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b72c5d81.css",
+    "static/js/main.5272bdad.js"
+  ]
+}
